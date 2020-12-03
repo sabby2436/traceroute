@@ -126,4 +126,4 @@ def get_route(hostname):
 
 
 if __name__ == '__main__':
-    print(*get_route('bing.com'), sep='\n')
+    print(*get_route('google.com'), sep='\n')
